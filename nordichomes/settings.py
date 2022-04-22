@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     #my apps
     'theme',
     'core.apps.CoreConfig',
+    'product.apps.ProductConfig',
 ]
 
 TAILWIND_APP_NAME = 'theme'
